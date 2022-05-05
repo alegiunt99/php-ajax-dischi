@@ -12,21 +12,21 @@ al caricamento della pagina ci saranno tutti i dischi.
         // canzone 1
         [
 
-            "author" => "Bon Jovi"
-            "genre" => "Rock"
-            "poster" => "https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg"
-            "title" => "New Jersey"
-            "year" => "1988"
+            "author" => "Bon Jovi",
+            "genre" => "Rock",
+            "poster" => "https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg",
+            "title" => "New Jersey",
+            "year" => "1988",
 
         ],
 
         // canzone 2
         [
 
-            "author" => "Queen"
-            "genre" => "Pop"
-            "poster" => "https://img.discogs.com/vknPDdrqRbT92pNRX0W4I5N91jg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1246953-1448927086-6590.jpeg.jpg"
-            "title" => "Live at Wembley 86"
+            "author" => "Queen",
+            "genre" => "Pop",
+            "poster" => "https://img.discogs.com/vknPDdrqRbT92pNRX0W4I5N91jg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1246953-1448927086-6590.jpeg.jpg",
+            "title" => "Live at Wembley 86",
             "year" => "1992"
 
         ],
@@ -34,32 +34,32 @@ al caricamento della pagina ci saranno tutti i dischi.
         // canzone 3
         [
 
-            "author" => "Sting"
-            "genre" => "Pop"
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/41JD3CW65HL.jpg"
-            "title" => "Ten's Summoner's Tales"
-            "year" => "1993"
+            "author" => "Sting",
+            "genre" => "Pop",
+            "poster" => "https://images-na.ssl-images-amazon.com/images/I/41JD3CW65HL.jpg",
+            "title" => "Ten's Summoner's Tales",
+            "year" => "1993",
 
         ],
 
         // canzone 4
         [
 
-            "author" => "Steve Gadd Band"
-            "genre" => "Jazz"
-            "poster" => "https://cdn2.jazztimes.com/2018/05/SteveGadd-800x723.jpg"
-            "title" => 
-            "year" =>
+            "author" => "Steve Gadd Band",
+            "genre" => "Jazz",
+            "poster" => "https://cdn2.jazztimes.com/2018/05/SteveGadd-800x723.jpg",
+            "title" =>  "Steve Gadd Band",
+            "year" => "2018"
 
         ],
 
         // canzone 5
         [
 
-            "author" => "Iron Maiden"
-            "genre" => "Metal"
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg"
-            "title" => "Brave new World"
+            "author" => "Iron Maiden",
+            "genre" => "Metal",
+            "poster" => "https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg",
+            "title" => "Brave new World",
             "year" => "2000"
 
         ],
@@ -67,10 +67,10 @@ al caricamento della pagina ci saranno tutti i dischi.
         // canzone 6
         [
 
-            "author" => "Eric Clapton"
-            "genre" => "Rock"
-            "poster" => "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg"
-            "title" => "One more car, one more raider"
+            "author" => "Eric Clapton",
+            "genre" => "Rock",
+            "poster" => "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg",
+            "title" => "One more car, one more raider",
             "year" => "2002"
 
         ],
@@ -78,10 +78,10 @@ al caricamento della pagina ci saranno tutti i dischi.
         // canzone 7
         [
 
-            "author" => "Deep Purple"
-            "genre" => "Rock"
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/51rggtPgmRL.jpg"
-            "title" => "Made in Japan"
+            "author" => "Deep Purple",
+            "genre" => "Rock",
+            "poster" => "https://images-na.ssl-images-amazon.com/images/I/51rggtPgmRL.jpg",
+            "title" => "Made in Japan",
             "year" => "1972"
 
         ],
@@ -89,10 +89,10 @@ al caricamento della pagina ci saranno tutti i dischi.
         // canzone 8
         [
 
-            "author" => "Metallica"
-            "genre" => "Metal"
-            "poster" => "https://images-na.ssl-images-amazon.com/images/I/81r3FVfNG3L._SY355_.jpg"
-            "title" => "And Justice for All"
+            "author" => "Metallica",
+            "genre" => "Metal",
+            "poster" => "https://images-na.ssl-images-amazon.com/images/I/81r3FVfNG3L._SY355_.jpg",
+            "title" => "And Justice for All",
             "year" => "1988"
 
         ],
@@ -100,10 +100,10 @@ al caricamento della pagina ci saranno tutti i dischi.
         // canzone 9
         [
 
-            "author" => "Dave Weckl"
-            "genre" => "Jazz"
-            "poster" => "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg"
-            "title" => "Hard Wired"
+            "author" => "Dave Weckl",
+            "genre" => "Jazz",
+            "poster" => "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
+            "title" => "Hard Wired",
             "year" => "1994"
 
         ],
@@ -111,10 +111,10 @@ al caricamento della pagina ci saranno tutti i dischi.
         // canzone 10
         [
 
-            "author" => "Michael Jackson"
-            "genre" => "Pop"
-            "poster" => "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg"
-            "title" => "Bad"
+            "author" => "Michael Jackson",
+            "genre" => "Pop",
+            "poster" => "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
+            "title" => "Bad",
             "year" => "1987"
 
         ],
@@ -156,6 +156,27 @@ al caricamento della pagina ci saranno tutti i dischi.
         <!-- creo le card delle canzoni  -->
         <div class="row" id="songs-container">
 
+        <?php
+            foreach($songs as $song){
+
+                echo('<div class="col col-md-6 col-lg-3 card-song">');
+
+                    echo('<img src="' . $song["poster"] . '" />');
+
+                    echo('<h4 id="song-title">' . $song["title"] . '</h4>');
+
+                    echo('<p>' . $song["author"] . '</p>');
+
+                    echo('<span">' . $song["year"] . '</span>');
+                
+                echo('</div>');
+
+            }
+        ?>
+            <div class="col col-md-6 col-lg-3 card-song">
+
+
+            </div>
         </div>
         
     </main>
