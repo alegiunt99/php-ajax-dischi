@@ -7,5 +7,14 @@ const app = new Vue({
 
         songs: []
 
+    },
+
+    mounted() {
+
+        axios.get('http://localhost/php-ajax-dischi/milestone_2/data.php').then((response) => {
+
+            console.log(response);
+            return this.songs = response.data;
+        })
     }
 })
