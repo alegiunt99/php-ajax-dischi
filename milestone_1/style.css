@@ -1,0 +1,17 @@
+/* UTILITIES */
+
+
+/* CONTENT */ 
+
+header{
+    background-color: rgb(46 58 70);
+    
+}
+
+.col-2{
+    padding: 20px 5px;
+}
+
+.col-2 img{
+    width: 35%;
+}
