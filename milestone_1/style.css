@@ -1,7 +1,14 @@
+
+body{
+    background-color: rgb(30 45 59) !important; 
+} 
+
 /* UTILITIES */
 
 
 /* CONTENT */ 
+
+/* header*/
 
 header{
     background-color: rgb(46 58 70);
@@ -14,4 +21,34 @@ header{
 
 .col-2 img{
     width: 35%;
+}
+
+/* cards */ 
+
+.card-song{
+    padding: 19px;
+    text-align: center;
+    background-color: #2e3a46;
+    border: 11px solid #1e2d3b;
+}
+
+.card-song img{
+    width: 85%;
+}
+
+.card-song h4{
+    color: white;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+p,
+span{
+    color: gray;
+    font-size: 16px;
+}
+
+.card-song p{
+    margin-bottom: 0;
+    margin-top: 22px;
 }

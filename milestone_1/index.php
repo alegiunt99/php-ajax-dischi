@@ -167,16 +167,13 @@ al caricamento della pagina ci saranno tutti i dischi.
 
                     echo('<p>' . $song["author"] . '</p>');
 
-                    echo('<span">' . $song["year"] . '</span>');
+                    echo('<span>' . $song["year"] . '</span>');
                 
                 echo('</div>');
 
             }
         ?>
-            <div class="col col-md-6 col-lg-3 card-song">
-
-
-            </div>
+        
         </div>
         
     </main>
