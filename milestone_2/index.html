@@ -44,6 +44,28 @@
         </header>
 
 
+        <main class="container">
+
+            <!-- creo le card delle canzoni  -->
+            <div class="row" id="songs-container">
+
+                <div v-for="(song, index) in songs" :key="index" class="col col-md-6 col-lg-3 card-song">
+
+                    <img :src="song.poster">
+
+                    <h4 id="song-title">{{song.title}}</h4>
+
+                    <p>{{song.author}}</p>
+
+                    <span>{{song.year}}</span>
+
+                </div>
+
+            </div>
+
+        </main>
+
+
     </div>
 </body>
 
